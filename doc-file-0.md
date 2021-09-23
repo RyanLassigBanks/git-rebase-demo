@@ -1,4 +1,4 @@
-Hi I am doc. I very cool.
+Hi I am a doc. I am very cool.
 
 I will tell y'all stuff about this project.
 
